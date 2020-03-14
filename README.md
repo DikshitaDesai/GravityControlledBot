@@ -20,3 +20,8 @@ An accelerator looks like a simple circuit for some larger electronic device. De
 The capacitance accelerometer senses changes in capacitance between microstructures located next to the device. If an accelerative force moves one of these structures, the capacitance will change and the accelerometer will translate that capacitance to voltage for interpretation.
 
 The project also uses other common components like motor driver circuit, DC motors, additional power supply, etc
+<h4>DC Motor</h4>
+<img src="Maxon-Brushed-DC-Motor.jpg"> 
+<br>
+<h4> Motor Driver Circuit</h4>
+<img src="h-bridge-motor-driver.png">
