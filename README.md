@@ -1,6 +1,7 @@
 # GravityControlledBot
 In this project, we will use an accelerometer to control a vehicle. The accelerometer can also be attached to any wearable hand accessories like gloves, bracelets, finger rings, etc making the project then gesture-controlled too. The project here is for wired use but it can be made wireless too.
 We first create a simple car (construction similar to that of a line follower robot but this time without IR sensors), and interface it with an accelerometer. An accelerometer enables us to control the robot with our gestures.
+<img src = "robot.png">
 # Methodology
 Imagine all those remote-controlled cars, drones, and other electronic systems. How cool would it be if we were to control them using our hand gestures rather than having buttons that need to be pressed all the time?! The accelerometer gives us a 3D inclination analysis output of which can be used to control our robot here.
 Here we provide a new approach to control systems and remove the bulky remotes and replace them with a single chip that's barely 4cmx4cm
